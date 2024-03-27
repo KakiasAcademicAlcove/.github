@@ -1,7 +1,9 @@
 
 <!-- ![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/b230b63b-916d-45f6-b8c5-b36e2ba95f08) -->
 
-![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/724158b2-9832-456b-8cad-9c341bced94d)
+<!-- ![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/724158b2-9832-456b-8cad-9c341bced94d) -->
+
+![image](https://github.com/KakiasAcademicAlcove/.github/assets/10551558/eb297609-fe16-4096-9dd0-53e1917efc96)
 
 
 
