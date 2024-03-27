@@ -5,6 +5,8 @@
 
 ![image](https://github.com/KakiasAcademicAlcove/.github/assets/10551558/eb297609-fe16-4096-9dd0-53e1917efc96)
 
+<!-- prompt was: create a futuristic reading nook against a window with books, an armchair, and a laptop on the table. From the window you can see the caribbean sea -->
+
 
 
 ## **Welcome!**
