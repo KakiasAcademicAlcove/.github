@@ -14,12 +14,13 @@ My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of
 
 3. **Research-led Teaching**: Curious about how to incorporate cutting-edge research to the computing curriculum? I am sharing examples of teaching material that is informed by my latest research findings, whether it's deciphering political texts or exploring the depths of social media data.
 
-## **Connect with Dr. Chatsiou**
-- **Email**: [k.chatsiou@uos.ac.uk](https://www.uos.ac.uk/people/dr-kakia-chatsiou/)
+## **Connect with Dr Kakia Chatsiou**
+- **Email**: [k.chatsiou at uos dot ac dot uk](https://www.uos.ac.uk/people/dr-kakia-chatsiou/)
+- **Homepage**: https://kakiac.github.io
 - **Google Scholar**: Explore her scholarly work on [Google Scholar](https://scholar.google.com/citations?user=_jZDqpIAAAAJ)
 
 ## **Join the Conversation**
-Feel free to comment, ask questions, or share your own insights. Let's build a vibrant community where ideas flow freely and learning knows no bounds!
+Feel free to comment, ask questions, or share your own insights. Create an issue and ask a question or suggest a resource that is not listed here. Let's build a vibrant community where ideas flow freely and learning knows no bounds!
 
 Remember, this space is as much yours as it is mine. So grab a virtual cup of coffee, explore, and let the journey begin! 🚀🔍📚
 
