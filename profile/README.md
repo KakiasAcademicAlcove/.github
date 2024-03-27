@@ -19,6 +19,10 @@ My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of
 
 3. [**Cloud 101: A cloud computing livestream**](cloud101Live.md): "Cloud 101: A Cloud Computing Livestream" is an engaging and informative series designed to demystify the world of cloud computing. In each episode, I dive into various aspects of cloud technology, from the basics to the latest trends. Whether you're a university student, an IT professional, or just a tech enthusiast, join us as we explore the cloud, one stream at a time. Tune in to learn, grow, and navigate the cloud with us!
 
+4. [**Student Work Showcase**](studentwork.md): This space showcases some of the work I have been supervising at undergraduate and postgraduate level.
+
+5. [**Career Resources**](careers.md): This space includes information about internships, job postings or career advice nuggets that could be beneficial to  computing students.
+
 ## **Get in touch**
 - **Email**: [k.chatsiou at uos dot ac dot uk](https://www.uos.ac.uk/people/dr-kakia-chatsiou/)
 - **Homepage**: https://kakiac.github.io
