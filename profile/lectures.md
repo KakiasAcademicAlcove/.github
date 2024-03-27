@@ -1,14 +1,22 @@
-![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/b230b63b-916d-45f6-b8c5-b36e2ba95f08)
+![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/724158b2-9832-456b-8cad-9c341bced94d)
 
-# My modules
+# My Lecture Notes
 
-- Information Systems Engineering (BSc Computing)
-- Distributed and Cloud Computing (BSc Computing)
-- Cloud Computing (MSc Advanced Computing)
-- Cloud Computing for Data Science and AI (MSc Data Science and AI)
-- DevOps
+🚧 [Dissertation Project (Computing and Data Science)](https://github.com/UoS-KakiasCourses/DissertationProject)
 
-- Introduction to Programming with Java
-- Relational Databases
-- Software Engineering
+🚧 Information Systems Engineering (BSc Computing)
+
+🚧 [Distributed and Cloud Computing (BSc Computing)](https://github.com/UoS-KakiasCourses/DistributedCloudComputing)
+
+🚧 Cloud Computing (MSc Advanced Computing)
+
+🚧 [Cloud Computing for Data Science and AI (MSc Data Science and AI)](https://github.com/kakiac/UoS_CloudComputing)
+
+🚧 DevOps
+
+🚧 [Introduction to Programming with Java](https://github.com/kakiac/UoS_Programming101)
+
+🚧 Relational Databases
+
+🚧 [Software Engineering](https://github.com/kakiac/UoS_SoftwareDesignProgramming)
 
