@@ -1,4 +1,6 @@
-# **Dr. Kakia Chatsiou's Academic Hub**
+
+![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/b230b63b-916d-45f6-b8c5-b36e2ba95f08)
+
 
 ## **Welcome!**
 Welcome to my digital corner—a place where knowledge meets curiosity. Whether you're a student, researcher, or simply intrigued by the fascinating world of computing, you've come to the right spot.
