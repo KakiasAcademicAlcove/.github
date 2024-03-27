@@ -10,11 +10,11 @@ My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of
 
 ## **What to Expect to find in this space**
 
-1. **Computing Resources Galore**: Need to access material from teaching I have delivered after you graduate? Need a handy guide or a thought-provoking paper on a topic related to cloud computing, distributed systems, machine learning and AI? Look no further - check out my treasure trove of resources for students, fellow academics, and anyone with an inquisitive mind.
+1. [**My Teaching Resources**](myteachingresources.md): Need to access material from teaching I have delivered after you graduate? Need a handy guide or a thought-provoking paper on a topic related to cloud computing, distributed systems, machine learning and AI? Look no further - check out my treasure trove of resources for students, fellow academics, and anyone with an inquisitive mind.
 
-2.  **Teaching Insights**: Are you thinking about teaching Computing to others? Find resources and shared materials from my teaching including thought pieces on pedagogy, student experiences, and innovative approaches to learning.
+2.  [**Teaching Activities Repository**](teachingactivities.md): Are you thinking about teaching Computing to others? Find resources and shared materials from my teaching including thought pieces on pedagogy, student experiences, and innovative approaches to learning. I am also sharing examples of teaching material that is informed by my latest research findings, whether it's deciphering political texts or exploring the depths of social media data. Includes ideas of incorporating cutting-edge research to the computing curriculum.
 
-3. **Research-led Teaching**: Curious about how to incorporate cutting-edge research to the computing curriculum? I am sharing examples of teaching material that is informed by my latest research findings, whether it's deciphering political texts or exploring the depths of social media data.
+3. [**Cloud 101: A cloud computing livestream**](cloud101Live.md): "Cloud 101: A Cloud Computing Livestream" is an engaging and informative series designed to demystify the world of cloud computing. In each episode, I dive into various aspects of cloud technology, from the basics to the latest trends. Whether you're a university student, an IT professional, or just a tech enthusiast, join us as we explore the cloud, one stream at a time. Tune in to learn, grow, and navigate the cloud with us!
 
 ## **Get in touch**
 - **Email**: [k.chatsiou at uos dot ac dot uk](https://www.uos.ac.uk/people/dr-kakia-chatsiou/)
