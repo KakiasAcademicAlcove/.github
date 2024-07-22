@@ -2,11 +2,11 @@
 
 # My Lecture Notes
 
-🚧 [Dissertation Project (Computing and Data Science)](https://github.com/UoS-KakiasCourses/DissertationProject)
+🚧 [Dissertation Project (Computing and Data Science)](https://github.com/KakiasAcademicAlcove/DissertationProject)
 
-🚧 [Information (Systems) Engineering (BSc Computing) / (BSc DTS)](https://github.com/UoS-KakiasCourses/InformationEngineering)
+🚧 [Information (Systems) Engineering (BSc Computing) / (BSc DTS)](https://github.com/KakiasAcademicAlcove/InformationEngineering)
 
-🚧 [Distributed and Cloud Computing (BSc Computing)](https://github.com/UoS-KakiasCourses/DistributedCloudComputing)
+🚧 [Distributed and Cloud Computing (BSc Computing)](https://github.com/KakiasAcademicAlcove/DistributedCloudComputing)
 
 🚧 Cloud Computing (MSc Advanced Computing)
 
