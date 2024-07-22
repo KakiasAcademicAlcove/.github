@@ -17,7 +17,7 @@ My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of
 
 ## **What to Expect to find in this space**
 
-1. [**My Lecture Notes**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/lectures.md): Need to access material from teaching I have delivered after you graduate? Need a handy guide or a thought-provoking paper on a topic related to cloud computing, distributed systems, machine learning and AI? Look no further - check out my treasure trove of resources for students, fellow academics, and anyone with an inquisitive mind.
+1. [**My Lecture Notes**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/lecturenotes.md): Need to access material from teaching I have delivered after you graduate? Need a handy guide or a thought-provoking paper on a topic related to cloud computing, distributed systems, machine learning and AI? Look no further - check out my treasure trove of resources for students, fellow academics, and anyone with an inquisitive mind.
 
 2.  [**Teaching Activities Repository**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/activities.md): Are you thinking about teaching Computing to others? Find resources and shared materials from my teaching including thought pieces on pedagogy, student experiences, and innovative approaches to learning. I am also sharing examples of teaching material that is informed by my latest research findings, whether it's deciphering political texts or exploring the depths of social media data. Includes ideas of incorporating cutting-edge research to the computing curriculum.
 
