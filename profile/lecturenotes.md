@@ -4,7 +4,7 @@
 
 🚧 [Dissertation Project (Computing and Data Science)](https://github.com/UoS-KakiasCourses/DissertationProject)
 
-🚧 Information Systems Engineering (BSc Computing)
+🚧 [Information (Systems) Engineering (BSc Computing) / (BSc DTS)](https://github.com/UoS-KakiasCourses/InformationEngineering)
 
 🚧 [Distributed and Cloud Computing (BSc Computing)](https://github.com/UoS-KakiasCourses/DistributedCloudComputing)
 
