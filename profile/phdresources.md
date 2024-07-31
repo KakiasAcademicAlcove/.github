@@ -3,6 +3,9 @@
 ![image](https://github.com/user-attachments/assets/ab245c41-f62e-47d9-a299-4096a1e756aa)
 ![image](https://github.com/user-attachments/assets/9e3bb0f2-3afe-4861-a7fb-64cb80ceaef4)
 
+![image](https://github.com/user-attachments/assets/040dcc4b-4624-4e3f-bacd-c98e55f16444)
+
+
 
 # PhD Student Resources
 
