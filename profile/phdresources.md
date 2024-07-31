@@ -1,6 +1,8 @@
 ![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/724158b2-9832-456b-8cad-9c341bced94d)
 
 ![image](https://github.com/user-attachments/assets/ab245c41-f62e-47d9-a299-4096a1e756aa)
+![image](https://github.com/user-attachments/assets/9e3bb0f2-3afe-4861-a7fb-64cb80ceaef4)
+
 
 # PhD Student Resources
 
