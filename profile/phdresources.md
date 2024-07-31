@@ -1,9 +1,9 @@
-![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/724158b2-9832-456b-8cad-9c341bced94d)
+<!--![Dr. Kakia Chatsiou's Academic Hub](https://github.com/UoS-KakiasCourses/.github/assets/10551558/724158b2-9832-456b-8cad-9c341bced94d)
 
 ![image](https://github.com/user-attachments/assets/ab245c41-f62e-47d9-a299-4096a1e756aa)
-![image](https://github.com/user-attachments/assets/9e3bb0f2-3afe-4861-a7fb-64cb80ceaef4)
+![image](https://github.com/user-attachments/assets/9e3bb0f2-3afe-4861-a7fb-64cb80ceaef4)-->
 
-![image](https://github.com/user-attachments/assets/040dcc4b-4624-4e3f-bacd-c98e55f16444)
+![University of Suffolk Header](https://github.com/user-attachments/assets/040dcc4b-4624-4e3f-bacd-c98e55f16444)
 
 
 
@@ -11,6 +11,10 @@
 
 ## About the PhD
 Welcome to the PhD program under the supervision of Dr. Kakia Chatsiou at the University of Suffolk. Our program is designed to foster innovative research and provide students with the skills and knowledge necessary to excel in their academic and professional careers. Dr. Chatsiou's expertise in machine learning, information management systems, and data science ensures a rich and supportive research environment.
+
+Interested in joining our thriving Postgraduate Research student community here at the University of Suffolk? Have a look at these pages for more information: https://www.uos.ac.uk/our-research/phd-study-and-the-suffolk-doctoral-college/
+
+Working closely with academics from the [Digital Futures institute](https://www.uos.ac.uk/our-research/research-institutes/digital-futures-institute/) and the Sustainability Institute, and supported by our commended Suffolk Doctoral College, you will have an excellent experience here in Ipswich as a Postgraduate Research student and make a valued contribution to our emergent research community. We work in partnership with the University of Brighton to provide PhD courses in a range of research areas.
 
 ## Areas I Supervise
 Dr. Chatsiou supervises research in the following areas:
