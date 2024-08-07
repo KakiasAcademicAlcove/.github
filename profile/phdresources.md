@@ -59,4 +59,12 @@ A strong research proposal is crucial for your PhD application. Here are some ti
 4. **Expected Outcomes**: Outline the potential impact of your research and how it will advance knowledge in your field.
 5. 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/EKoxLxzWNOk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+## Local Information
+If you are new to the area or would simply like to find out what facilities and resources are available for research and study to University of Suffolk students, have a look at these two maps that I have curated for our students.
+
+### University of Suffolk - Study
+
+[![University of Suffolk - Study (map)](https://github.com/user-attachments/assets/5b501ba7-84d3-46d7-a5a0-7a769df4132e)](https://www.google.com/maps/d/u/0/edit?mid=1GdD9f1rV5FL98ZCrk26ZHVvSPhstcNE&usp=sharing)
+
+### University of Suffolk - Life
+
