@@ -59,6 +59,11 @@ A strong research proposal is crucial for your PhD application. Here are some ti
 4. **Expected Outcomes**: Outline the potential impact of your research and how it will advance knowledge in your field.
 5. 
 
+<!-- Google Maps Responsive Embed -->
+<style>.embed-container {position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class='embed-container'></div>
+
+
 <html>
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1GdD9f1rV5FL98ZCrk26ZHVvSPhstcNE&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 </html>
