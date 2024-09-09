@@ -36,7 +36,7 @@ The following PhD students are engaged in a variety of exciting research project
 
 ## Useful links
 
-🌐[Applying for a PhD at the University of Suffolk](./phd/applying.md)
-🌐[./phd/gettingready.md](Getting Ready to conduct PhD research at the University of Suffolk)
-🌐[./phd/researching@suffolk.md](Researching at the University of Suffolk)
-🌐[./phd/localinformation-Suffolk.md](Local Information)
+🌐[Applying for a PhD at the University of Suffolk](./phd/applying.md)<br/>
+🌐[Getting Ready to conduct PhD research at the University of Suffolk](./phd/gettingready.md)<br/>
+🌐[Researching at the University of Suffolk](./phd/researching@suffolk.md)<br>
+🌐[Local Information](./phd/localinformation-Suffolk.md)<br/>
