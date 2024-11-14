@@ -22,9 +22,9 @@ My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of
 2. [**PhD Resources**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/phdresources.md):  Thinking of studying for a PhD at the University of Suffolk in my research topic areas? This page includes helpful pointers and resources to help you with your PhD journey from application to completion.
 
 3.  [**Teaching Activities Repository**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/activities.md): Are you thinking about teaching Computing to others? Find resources and shared materials from my teaching including thought pieces on pedagogy, student experiences, and innovative approaches to learning. I am also sharing examples of teaching material that is informed by my latest research findings, whether it's deciphering political texts or exploring the depths of social media data. Includes ideas of incorporating cutting-edge research to the computing curriculum.
-
+<!--
 4. [**Cloud 101: A cloud computing livestream**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/cloud101Live.md): "Cloud 101: A Cloud Computing Livestream" is an engaging and informative series designed to demystify the world of cloud computing. In each episode, I dive into various aspects of cloud technology, from the basics to the latest trends. Whether you're a university student, an IT professional, or just a tech enthusiast, join us as we explore the cloud, one stream at a time. Tune in to learn, grow, and navigate the cloud with us!
-
+-->
 5. [**Student Work Showcase**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/studentwork.md): This space showcases some of the work I have been supervising at undergraduate and postgraduate level.
 
 6. [**Career Resources**](https://github.com/KakiasAcademicAlcove/.github/blob/main/profile/careers.md): This space includes information about internships, job postings or career advice nuggets that could be beneficial to computing students.
