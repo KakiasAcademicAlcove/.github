@@ -39,4 +39,4 @@ This page showcases work from current and former undergraduate and postgraduate 
 #### Postgraduate Taught (MSc)
 |Degree           | Year         |Name          | Project Title                            | Link      |
 |-----------------|--------------|--------------|------------------------------------------|--------------|
-|------------------|-------------|---------------|-----------------------------------------|---------------|
+
