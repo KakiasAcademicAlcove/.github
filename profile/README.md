@@ -13,7 +13,7 @@
 Welcome to my digital corner—a place where knowledge meets curiosity. Whether you're a student, researcher, or simply intrigued by the fascinating world of computing, you've come to the right place.
 
 ## **About me**
-My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of Suffolk and I wear many hats: lecturer, researcher, and data enthusiast. My journey began at the University of Essex, where I earned my PhD in 2010. Since then, I've been on a mission to unravel the mysteries of machine learning, information management systems, and data science and make them accessible to everyone
+My name is Dr. Kakia Chatsiou, I am a Lecturer in Computing at the University of Suffolk and I wear many hats: lecturer, researcher, and data enthusiast. My journey began at the University of Essex, where I earned my PhD in 2010. Since then, I've been on a mission to unravel the mysteries of machine learning, information management systems, and data science and make them accessible to everyone.
 
 ## **What to Expect to find in this space**
 
