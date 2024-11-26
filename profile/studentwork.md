@@ -15,6 +15,8 @@ This page showcases work from current and former undergraduate and postgraduate 
 |DTS Software Engineering | 2024/2025  | Jordan
 |DTS Software Engineering | 2024/2025  | Holly
 |DTS Software Engineering | 2024/2025  | Jessica
+|DTS Software Engineering | 2024/2025  | Leon Skinner | Alpaca Cafe: A full-featured coffee ordering system for a mid-sized, multi-store coffee shop | [🔗]([URL](https://github.com/TidalCub/Alpaca-Cafe))   |
+
 
  
 #### Postgraduate Taught (MSc)
@@ -22,6 +24,9 @@ This page showcases work from current and former undergraduate and postgraduate 
 |-----------------|--------------|--------------|------------------------------------------|--------------|
 |MSc DSAI               | 2024/2025    | Laura Bilverstone   | tbc    |[🔗](URL)  |
 |MSc Advanced Computing | 2023/2024    | Alexander Robertson | tbc    |[🔗](URL)  |
+|MSc Computer Science   | 2024/2025    | Preeti Banga        | Secure AI-Driven Cloud Compliance for IoT in Healthcare    |[🔗](URL)  |
+
+
 
 #### PhDs
 |Degree           | Year         |Name          | Project Title                            | Link      |
@@ -34,7 +39,7 @@ This page showcases work from current and former undergraduate and postgraduate 
 
 ####  Undergraduate
 |Degree           | Year         |Name          | Project Title                            | Link      |
-|------------------|-------------|---------------|-----------------------------------------|---------------|
+|------------------|-------------|--------------|------------------------------------------|---------------|
 
 #### Postgraduate Taught (MSc)
 |Degree           | Year         |Name          | Project Title                            | Link      |
