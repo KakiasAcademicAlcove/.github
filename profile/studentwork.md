@@ -15,7 +15,7 @@ This page showcases work from current and former undergraduate and postgraduate 
 |DTS Software Engineering | 2024/2025  | Jordan
 |DTS Software Engineering | 2024/2025  | Holly
 |DTS Software Engineering | 2024/2025  | Jessica
-|DTS Software Engineering | 2024/2025  | Leon Skinner | Alpaca Cafe: A full-featured coffee ordering system for a mid-sized, multi-store coffee shop | [🔗]([URL](https://github.com/TidalCub/Alpaca-Cafe))   |
+|DTS Software Engineering | 2024/2025  | Leon Skinner | Alpaca Cafe: A full-featured coffee ordering system for a mid-sized, multi-store coffee shop | [🔗](https://github.com/TidalCub/Alpaca-Cafe)  |
 
 
  
