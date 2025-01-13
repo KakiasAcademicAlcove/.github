@@ -14,8 +14,9 @@ This page showcases work from current and former undergraduate and postgraduate 
 |DTS Software Engineering | 2024/2025  | Xenia Zimmermann | TBC       |[🔗](URL)   |
 |DTS Software Engineering | 2024/2025  | Jordan
 |DTS Software Engineering | 2024/2025  | Holly
-|DTS Software Engineering | 2024/2025  | Jessica
+|DTS Software Engineering | 2024/2025  | Jessica Adams
 |DTS Software Engineering | 2024/2025  | Leon Skinner | Alpaca Cafe: A full-featured coffee ordering system for a mid-sized, multi-store coffee shop | [🔗](https://github.com/TidalCub/Alpaca-Cafe)  |
+|DTS Software Engineering | 2024/2025  | Josh Adams | TBC | [🔗](https://github.com/KakiasAcademicAlcove/s230300-JoshAdams-Dissertation) |
 
 
  
@@ -33,7 +34,7 @@ This page showcases work from current and former undergraduate and postgraduate 
 |-----------------|--------------|--------------|------------------------------------------|---------------|
 |PhD (lead)     | 2024/2025    | Chris Janes         | tbc    |[🔗](URL)  |
 |PhD (advisor)  | 2024/2025    | Gabriel Akitundire  | tbc    |[🔗](URL)  |
-|PhD (advisor)  | 2024/2025    | Laura Leahy
+|PhD (advisor)  | 2024/2025    | Laura Leahy         |        |[🔗](URL)  |
 
 #### Past Students
 
