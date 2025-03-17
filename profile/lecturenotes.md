@@ -20,3 +20,5 @@
 
 🚧 [Software Engineering](https://github.com/kakiac/UoS_SoftwareDesignProgramming)
 
+🚧 [Academic Skills](https://github.com/KakiasAcademicAlcove/AcademicSkills)]
+
