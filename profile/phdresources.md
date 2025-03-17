@@ -33,6 +33,7 @@ The following PhD students are engaged in a variety of exciting research project
 
 * Chris Janes (started June 2024)
 * Ejiro Imiren (starting September 2025)
+* Gabriel Akitundire (Started October 2025)
 
 ## Useful links
 
@@ -40,3 +41,6 @@ The following PhD students are engaged in a variety of exciting research project
 🌐[Getting Ready to conduct PhD research at the University of Suffolk](./phd/gettingready.md)<br/>
 🌐[Researching at the University of Suffolk](./phd/researching@suffolk.md)<br>
 🌐[Local Information](./phd/localinformation-Suffolk.md)<br/>
+
+## Resources for PhD Students
+
